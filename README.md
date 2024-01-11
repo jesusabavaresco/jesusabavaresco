@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jesus Bavaresco</h1>
 <h3 align="center">A passionate frontend developer from Venezuela Living in Costa Rica</h3>
 
-- 🔭 I’m currently working on [ATH](https://github.com/jesusabavaresco/marvelCards)
+- 🔭 I’m currently working on [MARVELCARDS](https://github.com/jesusabavaresco/marvelCards)
 
 - 🌱 I’m currently learning **TypeScript, ReactNative**
 
